@@ -5,9 +5,9 @@ kramdown:
   hard_wrap: false
   parse_block_html: true
 github: academicpages
-url: https://academicpages.github.io/group-meeting 
-name: Your Group Name
-description: An initial blog and site for your group meeting
+url: https://nickbadams.github.io/group-meeting 
+name: Nick Adams
+description: An initial blog and site
 twitter: yourtwitterhandle
 calendar: https://yourcalendarurl
 mailinglist: https://yourmailinglisturl
